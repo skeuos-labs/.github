@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="skeuos-title">
+  <title id="skeuos-title">Skeuos Labs Symbol</title>
+  <rect width="256" height="256" rx="48" fill="#090A0F"/>
+  <!-- The Isometric S-Crucible (Inspo: 24b3c0fcd68a92503c79117efcb423b8 / 03299bd203bd8e3b6fa64ad17281753d) -->
+  <!-- Top Facet (Solid White) -->
+  <polygon points="
+    128,40
+    204,84
+    204,136
+    144,171
+    144,116
+    92,86
+    128,40
+  " fill="#FFFFFF"/>
+  <!-- Bottom Facet (Solid White) -->
+  <polygon points="
+    128,216
+    52,172
+    52,120
+    112,85
+    112,140
+    164,170
+    128,216
+  " fill="#FFFFFF"/>
+  <!-- Central Celestial Star Core in the S-Chamber (Electric Sky Accent) -->
+  <circle cx="128" cy="128" r="9" fill="#38BDF8"/>
+  <circle cx="128" cy="128" r="3.5" fill="#FFFFFF"/>
+</svg>
